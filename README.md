@@ -9,7 +9,7 @@ a.4. Apply a 5-day moving average model to a.1. Compute MAD and MSE.
 
 a.5. Apply an exponential smoothing model to a.1. given alpha of 0.1. Compute MAD and MSE.
 
-b.1. Now you have week 6 data, recomputed the seasonal factors. 
+b.1. You have week 6 data, which has recomputed the seasonal factors. 
 
 b.2. Recomputed day-by-day seasonally adjusted call volume use seasonal factors in b.1.
 
